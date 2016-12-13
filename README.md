@@ -7,4 +7,19 @@ Languages and scrypts used will be html,css,php,mysql,js,... those that run on o
 Servers must be able to run on open hardware like Arduino, Raspberry pi and other low power consumption and small singleboard computers.
 Aplication should be used client side with a simple internet browser like Mozzila Firefox, Chromium,... 
 
-html,css,php,mysql,js...
+Scripts used
+html,css,mysql,php,js...
+
+
+tables:
+- create table fields or columns with data type selection and input format protection 
+
+forms:
+- create simple basic html forms for input of data
+
+querry:
+- send simple queries to database
+- querry bulider with available columns in table  
+
+reports:
+- get outputs from database in a table
