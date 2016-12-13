@@ -4,7 +4,7 @@
 		function ddfill ( $column, $table ){
 		$querry = "SELECT $column FROM $table GROUP BY $column ;";
 		$querry_result = mysqli_query ( $connection, $querry );
-		while ( $field = mysqli_fetch_array ( $querry_result )){
+		while ( $field[] = mysqli_fetch_array ( $querry_result )){
 			echo "<option value=$field[0]>";
 			}	
 	?>			
