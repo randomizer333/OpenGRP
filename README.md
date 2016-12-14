@@ -14,9 +14,12 @@ html,css,mysql,php,js...
 
 tables:
 - CREATE qsl table fields or columns with data type selection and input format protection 
+- primary key selection
+- available foreign key selection
 
 forms:
-- create basic html forms for input of data
+- create simple element html forms for input of data
+- style with css
 
 querry:
 - SELECT, UPDATE, DELETE queries against database
@@ -24,8 +27,10 @@ querry:
 
 processes:
 - data generation: calculations, string operations
+- data transformation
+- data reduction
 
 reports:
 - run querry and display it in a form or table
-- make printable/exportable reports with static data and style
+- make printable/exportable reports with static and dynamic data and style
 - export in various data types like .txt,.pdf.,doc
