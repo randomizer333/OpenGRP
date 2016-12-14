@@ -23,7 +23,7 @@ querry:
 - querry bulider with available columns in table  
 
 processes:
--data generation: calculations, string operations
+- data generation: calculations, string operations
 
 reports:
 - run querry and display it in a form or table
