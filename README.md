@@ -22,7 +22,7 @@ forms:
 - style with css
 
 querry:
-- SELECT, UPDATE, DELETE queries against database
+- INSERT, SELECT, UPDATE, DELETE queries against database
 - querry bulider with available columns in table  
 
 processes:
