@@ -5,7 +5,7 @@ function connect ( $host, $user, $pass )
   for (){   // function parameter number check and error return
   }
   
-  $host = "localhost";  //replace for hostname or servername usualy localhost or name of sqlserver
+  $host = "localhost";  //replace with hostname or servername usualy localhost or name of sqlserver
   $user = "username"; //login credentials for sql database connection
   $pass = "password";
 
